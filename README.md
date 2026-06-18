@@ -1,1 +1,1 @@
-# Actividad-Comparaci-n-de-Algoritmos
+# Actividad-Comparacion-de-Algoritmos
